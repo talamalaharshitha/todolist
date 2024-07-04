@@ -18,6 +18,7 @@ A component for displaying the list of tasks and for editing, deleting, marking 
 File for displaying the whole application
 ## App.css
 Styling the Todo application
+## Implemented persistent storage so that tasks are not lost on page reload.
 
 
 ## Using the Todo App
