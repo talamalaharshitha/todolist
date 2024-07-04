@@ -1,7 +1,3 @@
-## Clone the repository
-git clone <git remote add origin https://github.com/talamalaharshitha/todolist.git
-git branch -M main
-git push -u origin main>
 
 ## npm install
 Install dependencies
